@@ -1,0 +1,23 @@
+﻿using System.Windows;
+
+namespace Kata03HelloWPFApp;
+
+/// <summary>
+/// Interaction logic for MainWindow.xaml
+/// </summary>
+public partial class Greetings : Window
+{
+    public Greetings() => InitializeComponent();
+
+    private void Display_Click(object sender, RoutedEventArgs e)
+    {
+        if (RadioButtonHello.IsChecked == true)
+        {
+            MessageBox.Show("Hello.");
+        }
+        else if (RadioButtonGoodbye.IsChecked == true)
+        {
+            MessageBox.Show("Goodbye.");
+        }
+    }
+}
