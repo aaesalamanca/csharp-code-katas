@@ -12,6 +12,7 @@
 | Kata 03 HelloWPFApp | [Tutorial: Create a simple WPF application with C#](https://learn.microsoft.com/en-us/visualstudio/get-started/csharp/tutorial-wpf?view=vs-2022) | WPF | |
 | Kata 04 Generate & Consume Async Streams | [Tutorial: Generate and consume async streams using C# and .NET](https://learn.microsoft.com/en-us/dotnet/csharp/tutorials/generate-consume-asynchronous-stream) | Console | Kata simplified without consuming GitHub GraphQL API |
 | Kata 05 Delegates Logger | [Common patterns for delegates](https://learn.microsoft.com/en-us/dotnet/csharp/delegates-patterns) | Console | It isn't a tutorial, but it's based on the code shown on the official documentation. The generated `log.txt` is under `.\Kata05DelegatesLogger\bin\Debug\net7.0\` |
+| Kata 06 Events File Searcher | [Standard .NET event patterns](https://learn.microsoft.com/en-us/dotnet/csharp/event-pattern) | Console | It isn't a tutorial, but it's based on the code shown on the official documentation. |
 
 ## Additional Notes
 

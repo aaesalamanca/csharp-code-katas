@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata03HelloWPFApp", "Kata03
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata04GenerateConsumeAsyncStream", "Kata04GenerateConsumeAsyncStream\Kata04GenerateConsumeAsyncStream.csproj", "{D7CF7E61-A23D-4E6B-B50B-5DF59AE0F066}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata05DelegatesLogger", "Kata05DelegatesLogger\Kata05DelegatesLogger.csproj", "{1E8C1499-FB00-465B-99BC-92DB1FBB8318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata05DelegatesLogger", "Kata05DelegatesLogger\Kata05DelegatesLogger.csproj", "{1E8C1499-FB00-465B-99BC-92DB1FBB8318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata06EventsFileSearcher", "Kata06EventsFileSearcher\Kata06EventsFileSearcher.csproj", "{03A9D31E-A826-4ACA-BDD8-6942673CB21E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1E8C1499-FB00-465B-99BC-92DB1FBB8318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E8C1499-FB00-465B-99BC-92DB1FBB8318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E8C1499-FB00-465B-99BC-92DB1FBB8318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A9D31E-A826-4ACA-BDD8-6942673CB21E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A9D31E-A826-4ACA-BDD8-6942673CB21E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A9D31E-A826-4ACA-BDD8-6942673CB21E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A9D31E-A826-4ACA-BDD8-6942673CB21E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
