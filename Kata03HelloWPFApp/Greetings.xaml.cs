@@ -13,11 +13,11 @@ public partial class Greetings : Window
     {
         if (RadioButtonHello.IsChecked == true)
         {
-            MessageBox.Show("Hello.");
+            _ = MessageBox.Show("Hello.");
         }
         else if (RadioButtonGoodbye.IsChecked == true)
         {
-            MessageBox.Show("Goodbye.");
+            _ = MessageBox.Show("Goodbye.");
         }
     }
 }
