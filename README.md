@@ -14,6 +14,7 @@
 | Kata 05 Delegates Logger | [Common patterns for delegates](https://learn.microsoft.com/en-us/dotnet/csharp/delegates-patterns) | Console | It isn't a tutorial, but it's based on the code shown on the official documentation. The generated `log.txt` is under `.\Kata05DelegatesLogger\bin\Debug\net7.0\`. |
 | Kata 06 Events File Searcher | [Standard .NET event patterns](https://learn.microsoft.com/en-us/dotnet/csharp/event-pattern) | Console | It isn't a tutorial, but it's based on the code shown on the official documentation. |
 | Kata 07 EF Get Started | [Getting Started with EF Core](https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli) | Console | When doing the migration and updating the database for the first time, it'll be created on `C:\Users\yourusername\AppData\Roaming\blogging.db` (you can also type `%AppData%` on the File Explorer search bar and it'll redirect you to the same folder). Use [SQLiteStudio](https://www.sqlitestudio.pl/) or [DB Browser for SQLite](https://sqlitebrowser.org/) to check and see the database. |
+| Kata 08 ASP.NET Core Get Started | [Tutorial: Get started with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-7.0&tabs=windows) | Razor | |
 
 ## Additional Notes
 

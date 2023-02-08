@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata05DelegatesLogger", "Ka
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata06EventsFileSearcher", "Kata06EventsFileSearcher\Kata06EventsFileSearcher.csproj", "{03A9D31E-A826-4ACA-BDD8-6942673CB21E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata07EFGetStarted", "Kata07EFGetStarted\Kata07EFGetStarted.csproj", "{3E199A7E-DB34-417D-A371-E627075F79C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata07EFGetStarted", "Kata07EFGetStarted\Kata07EFGetStarted.csproj", "{3E199A7E-DB34-417D-A371-E627075F79C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata08ASPNETCoreGetStarted", "Kata08ASPNETCoreGetStarted\Kata08ASPNETCoreGetStarted.csproj", "{D5B28CD4-88F9-4845-AD50-0D40B800D456}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3E199A7E-DB34-417D-A371-E627075F79C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E199A7E-DB34-417D-A371-E627075F79C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E199A7E-DB34-417D-A371-E627075F79C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B28CD4-88F9-4845-AD50-0D40B800D456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B28CD4-88F9-4845-AD50-0D40B800D456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B28CD4-88F9-4845-AD50-0D40B800D456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B28CD4-88F9-4845-AD50-0D40B800D456}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
