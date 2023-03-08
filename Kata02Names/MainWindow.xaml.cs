@@ -12,7 +12,7 @@ public partial class MainWindow : Window
     private void AddName_Click(object sender, RoutedEventArgs e)
     {
         string name = TextBoxName.Text;
-        if (!string.IsNullOrEmpty(name) && !ListBoxNames.Items.Contains(name))
+        if (!string.IsNullOrWhiteSpace(name) && !ListBoxNames.Items.Contains(name))
         {
             ListBoxNames.Items.Add(name);
             TextBoxName.Clear();
